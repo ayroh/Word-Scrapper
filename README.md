@@ -10,9 +10,8 @@
   Word Scrapper is a word puzzle game. Player finds words according to pseudo description.
   
   Yellow tile means word has that letter but player used in a wrong order.
-  &emsp;Black tile means word does not has that letter.
-  &emsp;Green tile means correct letter and correct order.
+  Black tile means word does not has that letter.
+  Green tile means correct letter and correct order.
   
   Charm(5 gold) gives one letter.
-  
   Lightning(10 gold) gives whole word.

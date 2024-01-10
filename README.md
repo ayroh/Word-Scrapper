@@ -4,7 +4,10 @@
 
   Gameplay Link: https://youtu.be/sueT6ys-1s8
   
+  Download APK: [Google Drive](https://drive.google.com/drive/folders/1gt929S-dGiFW6MBxv4m8KOZ0hI-i3WJT?usp=drive_link)
+  
   ![wordScrapper](https://user-images.githubusercontent.com/76924597/210425581-402d0f97-5f2a-45b2-98c6-cf03f5505e73.jpg)
+
 
   
   Word Scrapper is a word puzzle game. Player finds words according to pseudo description.
